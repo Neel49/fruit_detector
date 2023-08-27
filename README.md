@@ -19,8 +19,8 @@ To use the Fruit Pantry Assistant:
 
 ## Screenshots
 
-![App Screenshot 1](web_app.png)
-![App Screenshot 2](example_result.jpg)
+![App Screenshot 1](screenshots/web_app.png)
+![App Screenshot 2](screenshots/example_result.jpg)
 
 ## Contributing
 
