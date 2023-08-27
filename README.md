@@ -1,6 +1,10 @@
 # Fruit Pantry Assistant
 
-Welcome to the Fruit Pantry Assistant! This app helps you make the most of your pantry or fruit bowl. Upload a photo, and our advanced YOLOv8 model will detect the fruits for you. Review the detections, make adjustments if needed, or skip them and go straight to some yummy healthy meal ideas based on fruits. 😋🤤
+Introducing the Fruit Pantry Assistant—an innovative application designed to enhance your culinary exploration. With the power of YOLOv8, our custom-trained model, at your fingertips, the contents of your pantry and fruit bowl take center stage.
+
+Here's how it works: Upload an image, and our YOLOv8 model steps in to identify the diverse range of fruits at your disposal. To ensure precision, the detections can be refined, putting you in control of the process. Alternatively, bypass the editing phase and delve directly into a selection of nutritious recipes, thoughtfully curated based on your fruit inventory, courtesy of the Chap GPT API.
+
+Embark on a journey that elevates your cooking experience. Uncover the potential within your ingredients and savor the rich flavors that your fruit bowl can offer. The Fruit Pantry Assistant bridges technology and gastronomy, making every meal a delightful adventure. 😋🤤
 
 ## Getting Started
 
