@@ -36,18 +36,14 @@ We welcome contributions from the community to enhance the Fruit Pantry Assistan
 
 If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/your-username/fruit-pantry-assistant/issues).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The YOLOv8 model and related code are based on [Ultralytics](https://github.com/ultralytics/yolov5).
-- Recipe suggestions are obtained from [API Name/Provider].
+- Recipe suggestions are obtained from Chat GPT API.
 
 ## Contact Us
 
-If you have any questions or need further assistance, you can reach us at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or need further assistance, you can reach us at [n37patel@uwaterloo.ca](mailto:your.email@example.com).
 
 We hope you find the Fruit Pantry Assistant project useful and fun to use. Happy organizing and happy cooking!
 
